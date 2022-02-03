@@ -1,0 +1,12 @@
+1. Write the required python code
+2. install and import the required packages
+3. To create executable file from python file :
+	> Run cmd as administrator
+	> type "pip install auto-py-to-exe"
+	> type "pip uninstall enum34" to avoid unnecessary interference during conversion .
+	> type "auto-py-to-exe"
+	> new window would pop up and the required conversion can be done using installed applicaton.
+	> Browse the python file and choose additional files and click convert .
+	> Bang..:) u r good to go.
+	
+   
